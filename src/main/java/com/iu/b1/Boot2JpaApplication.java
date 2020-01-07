@@ -9,5 +9,4 @@ public class Boot2JpaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(Boot2JpaApplication.class, args);
 	}
-
 }
